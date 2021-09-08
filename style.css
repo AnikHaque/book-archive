@@ -1,0 +1,10 @@
+ .heading-text{
+    font-size: 55px;
+    font-family: poppins;
+} 
+
+.bg{
+    background-image: linear-gradient(black,white);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
